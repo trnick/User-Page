@@ -1,2 +1,2 @@
 # user-page
-Nicholas Tran's User Page
+C++ is very cool!
